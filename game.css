@@ -1,0 +1,49 @@
+body
+{
+	background:url("mathquizbackground.webp");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(177, 128, 177);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		color: white;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.mathquiz{
+color: white;
+font-variant:small-caps;
+word-spacing: 10px;
+font-size: xxx-large;
+}
+
+#player1_name_input, #player2_name_input{
+color: black;
+background-color: rgb(227, 187, 227); ;
+}
